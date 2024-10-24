@@ -1,19 +1,7 @@
 # ninja log v6
-6	335	7513760792679230	CMakeFiles/Quoridor.dir/main.c.obj	892e1579268b2d54
+8	414	7513814455893415	CMakeFiles/Quoridor.dir/main.c.obj	892e1579268b2d54
 240	1059	7513729683075918	CMakeFiles/Quoridor.dir/joueurs.c.obj	c358e648a2f95eab
 177	1060	7513729682439965	CMakeFiles/Quoridor.dir/Menu.c.obj	14c3b6e07570d0ed
-336	581	7513760795978892	Quoridor.exe	ee26303c1ae897ad
-3	733	7513812236701206	build.ninja	973117a92aacb7ae
-67	996	7513812238238885	CMakeFiles/Quoridor.dir/menu_joueur.c.obj	4d4a06bace8260bd
-8	396	7513812919204631	CMakeFiles/Quoridor.dir/main.c.obj	892e1579268b2d54
-396	738	7513812923080621	Quoridor.exe	711e4ea3fbba7737
-4	407	7513813166176718	CMakeFiles/Quoridor.dir/main.c.obj	892e1579268b2d54
-408	647	7513813170219851	Quoridor.exe	711e4ea3fbba7737
-5	382	7513813660351512	CMakeFiles/Quoridor.dir/main.c.obj	892e1579268b2d54
-383	668	7513813664122332	Quoridor.exe	711e4ea3fbba7737
-8	414	7513814455893415	CMakeFiles/Quoridor.dir/main.c.obj	892e1579268b2d54
-415	711	7513814459965234	Quoridor.exe	711e4ea3fbba7737
-6	410	7513815692315975	CMakeFiles/Quoridor.dir/menu_joueur.c.obj	4d4a06bace8260bd
-411	715	7513815696376464	Quoridor.exe	711e4ea3fbba7737
-5	367	7513821495140257	CMakeFiles/Quoridor.dir/menu_joueur.c.obj	4d4a06bace8260bd
 367	686	7513821498769712	Quoridor.exe	711e4ea3fbba7737
+3	733	7515019848035889	build.ninja	973117a92aacb7ae
+5	367	7513821495140257	CMakeFiles/Quoridor.dir/menu_joueur.c.obj	4d4a06bace8260bd
