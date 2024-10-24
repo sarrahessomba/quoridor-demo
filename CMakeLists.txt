@@ -7,4 +7,5 @@ add_executable(Quoridor main.c
         Menu.c
         menu.h
         menu_joueur.c
-        joueurs.h)
+        joueurs.h
+        move.c)

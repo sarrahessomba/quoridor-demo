@@ -67,6 +67,12 @@ build CMakeFiles/Quoridor.dir/menu_joueur.c.obj: C_COMPILER__Quoridor_unscanned_
   OBJECT_DIR = CMakeFiles\Quoridor.dir
   OBJECT_FILE_DIR = CMakeFiles\Quoridor.dir
 
+build CMakeFiles/Quoridor.dir/move.c.obj: C_COMPILER__Quoridor_unscanned_Debug C$:/Users/sarra/CLionProjects/Quoridor/move.c || cmake_object_order_depends_target_Quoridor
+  DEP_FILE = CMakeFiles\Quoridor.dir\move.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Quoridor.dir
+  OBJECT_FILE_DIR = CMakeFiles\Quoridor.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Quoridor
@@ -75,7 +81,7 @@ build CMakeFiles/Quoridor.dir/menu_joueur.c.obj: C_COMPILER__Quoridor_unscanned_
 #############################################
 # Link the executable Quoridor.exe
 
-build Quoridor.exe: C_EXECUTABLE_LINKER__Quoridor_Debug CMakeFiles/Quoridor.dir/main.c.obj CMakeFiles/Quoridor.dir/Menu.c.obj CMakeFiles/Quoridor.dir/menu_joueur.c.obj
+build Quoridor.exe: C_EXECUTABLE_LINKER__Quoridor_Debug CMakeFiles/Quoridor.dir/main.c.obj CMakeFiles/Quoridor.dir/Menu.c.obj CMakeFiles/Quoridor.dir/menu_joueur.c.obj CMakeFiles/Quoridor.dir/move.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Quoridor.dir
